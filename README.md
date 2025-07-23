@@ -21,8 +21,8 @@ The repository will be organised into clearly labelled folders to help you quick
 
 ```
 
-/docs/             — Module documents, lecture notes, and guides
-/templates/        — Design and presentation templates
+/docs/            — Module documents, lecture notes, and guides
+/templates/       — Design and presentation templates
 /annexures/       — Professional conduct annexures and supporting documents
 
 ```
