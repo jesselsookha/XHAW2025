@@ -15,12 +15,12 @@
 
 **Homepage Functionality**
 
-| Task                                                              | Completed? |
-| ----------------------------------------------------------------- | ---------- |
-| Homepage layout follows design from Milestone 2                   | \[ ]       |
-| Key elements (logo, menu, search bar) are visible and accessible  | \[ ]       |
-| Call-to-action buttons are clearly visible and functional         | \[ ]       |
-| Content adjusts correctly for different screen sizes (responsive) | \[ ]       |
+| Task                                                               | Completed? |
+| ------------------------------------------------------------------ | ---------- |
+| Homepage layout follows design from Milestone 2                    | \[ ]       |
+| Key elements (logo, menu, search bar*) are visible and accessible  | \[ ]       |
+| Call-to-action buttons are clearly visible and functional          | \[ ]       |
+| Content adjusts correctly for different screen sizes (responsive)  | \[ ]       |
 
 **Course Pages Functionality**
 
@@ -111,12 +111,6 @@
 | Error messages are clear and helpful (e.g., missing required fields)                    | \[ ]       |
 | Form validations are implemented on mobile forms (e.g., email validation, empty fields) | \[ ]       |
 
-**SEO/Meta Tags**
-
-| Task                                                                  | Completed? |
-| --------------------------------------------------------------------- | ---------- |
-| Relevant meta tags are added to the web app’s home page for basic SEO | \[ ]       |
-
 **App Performance**
 
 | Task                                                                             | Completed? |
@@ -132,13 +126,9 @@
 
 **GitHub Setup**
 
-| Task                                                                 | Completed? |
-| -------------------------------------------------------------------- | ---------- |
-| Cloned the group’s GitHub repository (both web and mobile app repos) | \[ ]       |
-| Created and switched to individual branches for development          | \[ ]       |
-| Pushed code to GitHub regularly (at least once per day)              | \[ ]       |
-| Created pull requests for each major task or feature                 | \[ ]       |
-| Merged pull requests after reviewing and approving with the group    | \[ ]       |
+| Task                                                                             | Completed? |
+| -------------------------------------------------------------------------------- | ---------- |
+| Pushed code to GitHub regularly (at least once per day)                          | \[ ]       |
 
 **Collaboration**
 
@@ -146,8 +136,8 @@
 | -------------------------------------------------------------------------------- | ---------- |
 | Regular communication with the team regarding task status                        | \[ ]       |
 | Clear and consistent commit messages (e.g., "Implemented homepage layout")       | \[ ]       |
-| Resolved any merge conflicts quickly and effectively                             | \[ ]       |
 | Stayed up-to-date with the latest code by regularly pulling from the main branch | \[ ]       |
+| TimeSheet document is maintained and keeps record of all member contributions    | \[ ]       |
 
 ---
 
