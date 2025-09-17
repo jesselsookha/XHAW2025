@@ -19,7 +19,7 @@
 
 3. **Consistent UX/UI Across Platforms:**
 
-   * Both the website and mobile app should provide a seamless experience in terms of layout, colors, navigation, and functionality.
+   * Both the website and mobile app should provide a seamless experience in terms of layout, colours, navigation, and functionality.
 
 4. **Evidence of Collaboration and Task Tracking:**
 
@@ -101,10 +101,8 @@
 
 #### 7. **GitHub Workflow**
 
-* **Cloning Repos**: Each member should clone both repositories (one for web, one for mobile) and work within their own branch.
-* **Commits & Branching**: As you work, make frequent commits to your personal branch. Once you’ve completed a task, open a **pull request** to merge into the main branch.
-* **Pulling the Latest Version**: Always pull the latest version of the code before you start working to avoid merge conflicts.
-* **Collaboration on GitHub**: Provide clear commit messages, describing what was done (e.g., "Fixed layout issue on homepage" or "Implemented dropdown menu functionality").
+This has been explained via email communications. Individual repositories will be created to ensure that all students submit the work. 
+The workflow that will be followed, will mean that while development and collaboration will still occur. Work will be shared manually and compiled along with your group members. The commits will still be made. But it is the contributions that will now be recorded on your Timesheet. Your updates, including the shared updates from your fellow group members. The Timesheet will be shared at regular intervals to engage with students to review the progress being made. 
 
 #### 8. **Specific Page Functionalities**
 
